@@ -1,1 +1,0 @@
-This repository contains the files for a full blown implementation of the strategy pattern example from Chapter 1 of the Head First Design Principles Book. This is the Duck example with strategies implemented as implementations of an interface.
